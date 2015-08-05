@@ -21,7 +21,9 @@
     "include-all": "~0.1.3",
     "rc": "~0.5.0",
     "sails": "~0.11.0",
-    "sails-disk": "~0.10.0"
+    "sails-disk": "~0.10.0",
+    "request": "latest",
+    "cheerio": "latest"
   },
   "scripts": {
     "debug": "node debug app.js",
@@ -30,7 +32,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hanifnorman/myfitnesspal-foods.git"
+    "url": "git://github.com/hanifn/Engineering-Challenge-Backend.git"
   },
   "author": "hanifnorman",
   "license": ""
